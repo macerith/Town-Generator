@@ -1,0 +1,518 @@
+Name: Tuder.txt
+Size: Hamlet
+Walls: Mortar
+Export: Copper
+
+
+
+The Lord and his Family:
+
+FATHER
+Baidyanath Kakati
+: Adult male Gith. short and fat with Yellow-green
+ skin and Red
+ hair, wearing formal clothes. A Wagon Driver
+, they are calm and paranoid
+, and idolize logic.
+MOTHER
+Ogharn Kakati
+: Adult female Orc. short and skinny with Gray skin and Black hair, wearing extravagant clothes. A Slave
+, they are playful and gullible
+, and idolize self-forgiveness.
+CHILDREN
+Badakh Kakati
+: Child female Orc. tall and burly with Gray skin and Black hair, wearing beggar clothes. They are sad and explosie
+, and idolize victory.
+Hagob Kakati
+: Child male Orc. short and burly with Gray skin and Red
+ hair, wearing extravagant clothes. They are sneaky and indomitable
+, and idolize aspiration.
+Gul Kakati
+: Child male Orc. short and average with Yellow-green
+ skin and Red
+ hair, wearing leisurely clothes. They are brilliant and vain
+, and idolize charity.
+Uggug Kakati
+: Child male Orc. tall and average with Gray skin and Red
+ hair, wearing formal clothes. They are playful and pathological-liar
+, and idolize proficiency.
+Bhairab Kakati
+: Child male Gith. average and fat with Yellow-green
+ skin and Red
+ hair, wearing average clothes. They are optimistic and vain
+, and idolize parenthood.
+Eichelberbog Kakati
+: Child male Orc. short and skinny with Gray skin and Black hair, wearing formal clothes. They are careful and naive
+, and idolize glory.
+
+
+
+
+Town Guard Captain:
+Chrink Nethergazer
+: Adult male Kobold. tall and fat with Blue skin and N/A hair, wearing average clothes. They are humorous and dimwit
+, and idolize justice.
+
+
+
+The town has 1 barracks.
+
+
+
+Barrack Lieutenant:
+Nephadius Benvolio
+: Adult male Tiefling. tall and athletic with Blue skin and Dark Blue hair, wearing formal clothes. They are cooperative and stubborn
+, and idolize caring.
+
+
+Subordinate Guards:
+Neothi Vaimei-Lamune
+: Adult male Goliath. tall and burly with Brown skin and N/A hair, wearing extravagant clothes. They are humorous and immoral
+, and idolize charity.
+Vulea Thunukukane
+: Adult female Goliath. average and burly with Brown skin and N/A hair, wearing leisurely clothes. They are impatient and belittling
+, and idolize reputation.
+Mephac Drysthyra
+: Adult female Dragonborn. average and fat with Gold skin and N/A hair, wearing extravagant clothes. They are cheerful and smoker
+, and idolize escape.
+Rajrupa Deka
+: Adult female Gith. average and average with Yellow-green
+ skin and Auburn
+ hair, wearing extravagant clothes. They are disrespectful and clumsy
+, and idolize immortality.
+Eammimou Rirwime
+: Adult female Aasimar. short and athletic with Tan skin and Red hair, wearing average clothes. They are playful and workaholic
+, and idolize tradition.
+Damtetoth Lumimash
+: Adult male Dragonborn. tall and fat with White skin and N/A hair, wearing formal clothes. They are nervous and arrogant
+, and idolize providing.
+Holika Bharali
+: Adult female Gith. short and muscular with Yellow-brown
+ skin and Gray
+ hair, wearing extravagant clothes. They are hyper and naive
+, and idolize fitting in.
+Aaldrakish Zofsira
+: Adult male Dragonborn. average and scrawny with Bronze skin and N/A hair, wearing average clothes. They are imaginative and irrational
+, and idolize travel.
+Brallevia Burrowhorn
+: Adult female Dwarf. tall and muscular with Tan skin and Auburn hair, wearing extravagant clothes. They are wise and attached
+, and idolize repayment.
+Afsane Javed
+: Adult male Lizardfolk. short and skinny with Gray skin and N/A hair, wearing extravagant clothes. They are patient and envious
+, and idolize companionship.
+Rialdrieh Apikmor
+: Adult female Aasimar. average and scrawny with Dark skin and Red hair, wearing formal clothes. They are brave and unethical
+, and idolize companionship.
+Cregrea Hamlin
+: Adult female Tiefling. short and burly with Red skin and Blue hair, wearing beggar clothes. They are quiet and dimwit
+, and idolize entreprenuership.
+
+
+
+
+The Town has an Inn. It is called The Superb Fork
+
+Owner:
+Aalxocak Zofsira
+: Adult male Dragonborn. short and average with Copper skin and N/A hair, wearing beggar clothes. They are dull and forgetful
+, and idolize entreprenuership.
+
+Cook:
+Chreige Coalfang
+: Adult female Kobold. short and average with Gold skin and N/A hair, wearing beggar clothes. They are caring and gluttony
+, and idolize health.
+
+Bartender:
+Gwynnyl Gronhonuk
+: Adult female Dwarf. short and athletic with Gray skin and Brown hair, wearing average clothes. They are gloomy and shallow
+, and idolize pride.
+
+Server:
+Jeta Ebrahimi
+: Adult male Lizardfolk. tall and muscular with Dusty Yellow skin and N/A hair, wearing leisurely clothes. They are lazy and storyteller
+, and idolize glory.
+
+
+
+
+
+
+The town has a Potter.
+
+Kaunnio Kulanolake
+: Adult female Goliath. average and skinny with Gray skin and N/A hair, wearing work clothes. They are mature and abusive
+, and idolize acknowledgement.
+
+
+
+
+
+
+
+
+
+
+
+Households:
+
+
+
+
+House 1 Occupants:
+FATHER
+Kaark Brownblower
+: Adult male Kobold. short and skinny with Black skin and N/A hair, wearing average clothes. A Cook
+, they are intelligent and slacker
+, and idolize reputation.
+MOTHER
+Khnaidai Brownblower
+: Adult female Kobold. tall and skinny with Bronze skin and N/A hair, wearing formal clothes. A Minstrel
+, they are talkative and disrespectful
+, and idolize greater good.
+CHILDREN
+Khrenga Brownblower
+: Child female Kobold. short and scrawny with Bronze skin and N/A hair, wearing work clothes. They are confused and unforgiving
+, and idolize festivity.
+Ozsrihs Brownblower
+: Child female Kobold. average and scrawny with Black skin and N/A hair, wearing average clothes. They are sneaky and easily-angered
+, and idolize sincerity.
+Zes Brownblower
+: Child female Kobold. short and skinny with Black skin and N/A hair, wearing formal clothes. They are optimistic and suspicious
+, and idolize service.
+Chrec Brownblower
+: Child male Kobold. tall and fat with Black skin and N/A hair, wearing beggar clothes. They are unkind and naive
+, and idolize live and let live.
+Khruz Brownblower
+: Child female Kobold. short and skinny with Black skin and N/A hair, wearing work clothes. They are creative and immoral
+, and idolize revenge.
+
+
+
+House 2 Occupants:
+FATHER
+Robin Rabha
+: Adult male Gith. average and burly with Yellow-green
+ skin and Red
+ hair, wearing work clothes. A Tailor
+, they are obnoxious and squander
+, and idolize trust.
+MOTHER
+Shakshi Rabha
+: Adult female Gith. tall and average with Yellow-brown
+ skin and Yellow-brown
+ hair, wearing extravagant clothes. A Maid
+, they are wild and smoker
+, and idolize mastery.
+CHILDREN
+Shakira Rabha
+: Child female Gith. short and scrawny with Yellow-brown
+ skin and Red
+ hair, wearing leisurely clothes. They are talkative and renege
+, and idolize craft.
+Gopi Rabha
+: Child male Gith. average and skinny with Yellow-brown
+ skin and Yellow-brown
+ hair, wearing formal clothes. They are mean and covetous
+, and idolize beauty.
+Bikromjit Rabha
+: Child male Gith. tall and burly with Yellow-green
+ skin and Yellow-brown
+ hair, wearing work clothes. They are helpful and remorseless
+, and idolize self-acceptance.
+
+
+
+House 3 Occupants:
+FATHER
+Zurgug Guruok
+: Adult male Orc. short and burly with Ash skin and Black hair, wearing work clothes. A Fishmonger
+, they are afraid and thoutless
+, and idolize repayment.
+MOTHER
+Thrubo Guruok
+: Adult female Kobold. short and burly with Green skin and N/A hair, wearing average clothes. A Vintner
+, they are timid and stubborn
+, and idolize fairness.
+CHILDREN
+Wilaktug Guruok
+: Child male Orc. short and scrawny with Green skin and N/A hair, wearing formal clothes. They are serious and unethical
+, and idolize artistry.
+Xir Guruok
+: Child male Kobold. average and burly with Ash skin and N/A hair, wearing extravagant clothes. They are thoughtful and cusser
+, and idolize pain.
+Chruy Guruok
+: Child female Kobold. short and burly with Ash skin and N/A hair, wearing beggar clothes. They are wise and possessive
+, and idolize artistry.
+Vray Guruok
+: Child female Kobold. short and scrawny with Green skin and Black hair, wearing average clothes. They are optimistic and disrespectful
+, and idolize creativity.
+
+
+
+House 4 Occupants:
+FATHER
+Ephekmosh Faecoria
+: Adult male Dragonborn. average and burly with Red skin and N/A hair, wearing extravagant clothes. A Banker
+, they are wild and vindictive
+, and idolize responsibility.
+MOTHER
+Myordith Faecoria
+: Adult female Dragonborn. average and athletic with Gold skin and N/A hair, wearing leisurely clothes. A Stonecutter
+, they are shy and negligent
+, and idolize philanthropy.
+CHILDREN
+Tammaatergid Faecoria
+: Child female Dragonborn. short and average with Red skin and N/A hair, wearing beggar clothes. They are noisy and humorous
+, and idolize trust.
+Cumticuundeash Faecoria
+: Child male Dragonborn. short and average with Red skin and N/A hair, wearing beggar clothes. They are talkative and smoker
+, and idolize self-control.
+Daancuujomod Faecoria
+: Child male Dragonborn. average and fat with Gold skin and N/A hair, wearing extravagant clothes. They are cheerful and critical
+, and idolize discovery.
+Nankek Faecoria
+: Child male Dragonborn. short and muscular with Gold skin and N/A hair, wearing leisurely clothes. They are dull and thoutless
+, and idolize survival.
+
+
+
+House 5 Occupants:
+FATHER
+Idir Rais
+: Adult male Lizardfolk. short and athletic with Gray skin and N/A hair, wearing work clothes. A Guard
+, they are humorous and adulterous
+, and idolize courage.
+MOTHER
+Tanilla Rais
+: Adult female Lizardfolk. tall and scrawny with Black skin and N/A hair, wearing leisurely clothes. A Cartographer
+, they are helpful and humorous
+, and idolize destiny.
+CHILDREN
+Imlul Rais
+: Child male Lizardfolk. tall and skinny with Black skin and N/A hair, wearing average clothes. They are disrespectful and hypocrite
+, and idolize protecion.
+Sula Rais
+: Child female Lizardfolk. short and skinny with Gray skin and N/A hair, wearing leisurely clothes. They are selfish and competitive
+, and idolize artistry.
+Lundja Rais
+: Child female Lizardfolk. average and muscular with Black skin and N/A hair, wearing extravagant clothes. They are confident and gullible
+, and idolize live and let live.
+Bellou Rais
+: Child male Lizardfolk. tall and average with Gray skin and N/A hair, wearing average clothes. They are silly and nosy
+, and idolize pride.
+
+
+
+House 6 Occupants:
+FATHER
+Amen Farah
+: Adult male Lizardfolk. average and fat with Black skin and N/A hair, wearing beggar clothes. A Cook
+, they are responsible and manipulative
+, and idolize nature.
+MOTHER
+Tacelvat Farah
+: Adult female Lizardfolk. short and athletic with Dusty Yellow skin and N/A hair, wearing leisurely clothes. A Engineer
+, they are rude and passive-aggressive
+, and idolize escape.
+CHILDREN
+Menna Farah
+: Child female Lizardfolk. tall and athletic with Dusty Yellow skin and N/A hair, wearing average clothes. They are loving and paranoid
+, and idolize mastery.
+
+
+
+House 7 Occupants:
+FATHER
+Malelech Donoghan
+: Adult male Tiefling. average and skinny with Pink skin and Black hair, wearing work clothes. A Wagon Driver
+, they are brilliant and arrogant
+, and idolize freedom.
+MOTHER
+Iniza Donoghan
+: Adult female Tiefling. tall and muscular with Pink skin and Dark Blue hair, wearing formal clothes. A Slave
+, they are confident and belittling
+, and idolize entreprenuership.
+CHILDREN
+Erchar Donoghan
+: Child male Tiefling. tall and burly with Pink skin and Black hair, wearing beggar clothes. They are humorous and explosie
+, and idolize philanthropy.
+Zarrakir Donoghan
+: Child male Tiefling. short and athletic with Pink skin and Black hair, wearing leisurely clothes. They are clumsy and dolt
+, and idolize knowledge.
+Ripione Donoghan
+: Child female Tiefling. tall and skinny with Pink skin and Black hair, wearing formal clothes. They are greedy and disloyal
+, and idolize nature.
+Comfort Donoghan
+: Child male Tiefling. short and muscular with Pink skin and Black hair, wearing work clothes. They are intelligent and disloyal
+, and idolize caring.
+Trickery Donoghan
+: Child male Tiefling. short and average with Pink skin and Black hair, wearing work clothes. They are wise and easily-angered
+, and idolize pain.
+
+
+
+House 8 Occupants:
+Abanita Kandali
+: Adult female Gith. average and scrawny with Yellow-brown
+ skin and Red
+ hair, wearing work clothes. They are mean and explosie
+, and idolize fortune.
+
+
+
+
+House 9 Occupants:
+Lothi Geaneaku
+: Adult female Goliath. average and athletic with Gray skin and N/A hair, wearing average clothes. They are confused and remorseless
+, and idolize acceptance.
+
+
+
+
+House 10 Occupants:
+FATHER
+Anuraaj Kandali
+: Adult male Gith. short and skinny with Yellow-green
+ skin and Russet
+ hair, wearing extravagant clothes. A Prostitute
+, they are lonely and rebellious
+, and idolize nation.
+MOTHER
+Eednei Kandali
+: Adult female Kobold. short and athletic with Black skin and N/A hair, wearing formal clothes. A Landlord
+, they are proud and gullible
+, and idolize dominion.
+CHILDREN
+Rupam Kandali
+: Child male Gith. short and muscular with Yellow-green
+ skin and Russet
+ hair, wearing average clothes. They are organized and indecisive
+, and idolize authority.
+Harsha Kandali
+: Child male Gith. average and fat with Black skin and N/A hair, wearing formal clothes. They are smart and predictable
+, and idolize people.
+
+
+
+House 11 Occupants:
+FATHER
+Shamong Caskajaro
+: Adult male Tiefling. average and scrawny with Purple skin and Purple hair, wearing average clothes. A Brewer
+, they are trustworthy and suspicious
+, and idolize chaos.
+MOTHER
+Truth Caskajaro
+: Adult female Tiefling. short and athletic with Blue skin and Dark Blue hair, wearing leisurely clothes. A Gardener
+, they are nosy and renege
+, and idolize self-forgiveness.
+CHILDREN
+Ariagoria Caskajaro
+: Child female Tiefling. short and scrawny with Blue skin and Purple hair, wearing beggar clothes. They are artistic and racist
+, and idolize self-control.
+Trouble Caskajaro
+: Child female Tiefling. average and scrawny with Blue skin and Dark Blue hair, wearing formal clothes. They are obnoxious and superstitious
+, and idolize community.
+Comfort Caskajaro
+: Child male Tiefling. average and fat with Purple skin and Dark Blue hair, wearing leisurely clothes. They are caring and flake
+, and idolize might.
+Kalmaia Caskajaro
+: Child female Tiefling. average and burly with Purple skin and Purple hair, wearing extravagant clothes. They are nice and immoral
+, and idolize protecion.
+Zailoth Caskajaro
+: Child female Tiefling. short and average with Purple skin and Purple hair, wearing beggar clothes. They are immature and paranoid
+, and idolize shelter.
+
+
+
+House 12 Occupants:
+FATHER
+Daergran Ironale
+: Adult male Dwarf. average and burly with Gray skin and Brown hair, wearing formal clothes. A Blacksmith
+, they are confused and shallow
+, and idolize victory.
+MOTHER
+Reynmyla Ironale
+: Adult female Dwarf. short and scrawny with Tan skin and Black hair, wearing beggar clothes. A Bounty Hunter
+, they are talented and offensive
+, and idolize petiness.
+CHILDREN
+Thurthrum Ironale
+: Child male Dwarf. tall and fat with Tan skin and Brown hair, wearing work clothes. They are active and clumsy
+, and idolize travel.
+Brallevia Ironale
+: Child female Dwarf. tall and skinny with Gray skin and Black hair, wearing extravagant clothes. They are logical and adulterous
+, and idolize might.
+
+
+
+House 13 Occupants:
+Kudik Riverfoot
+: Adult male Kobold. short and muscular with Gold skin and N/A hair, wearing extravagant clothes. They are curious and irrational
+, and idolize vigilantism.
+
+
+
+
+House 14 Occupants:
+FATHER
+Snidid Stormsplinter
+: Adult male Kobold. tall and fat with Black skin and N/A hair, wearing work clothes. A Soldier
+, they are careful and tease
+, and idolize greater good.
+MOTHER
+Veh Stormsplinter
+: Adult female Kobold. short and muscular with Green skin and White hair, wearing extravagant clothes. A Furrier
+, they are cooperative and fanatical
+, and idolize health.
+CHILDREN
+Dehs Stormsplinter
+: Child female Kobold. tall and muscular with Green skin and White hair, wearing average clothes. They are tolerant and complainer
+, and idolize shelter.
+Thrilble Stormsplinter
+: Child female Kobold. average and fat with Black skin and White hair, wearing formal clothes. They are caring and greedy
+, and idolize freedom.
+Khrathri Stormsplinter
+: Child female Kobold. average and skinny with Black skin and N/A hair, wearing extravagant clothes. They are confident and humorous
+, and idolize tradition.
+Shtaih Stormsplinter
+: Child female Kobold. average and fat with Black skin and White hair, wearing extravagant clothes. They are greedy and attached
+, and idolize courage.
+Szic Stormsplinter
+: Child male Kobold. average and muscular with Black skin and N/A hair, wearing leisurely clothes. They are humble and spender
+, and idolize passion.
+Clez Stormsplinter
+: Child female Kobold. tall and athletic with Green skin and White hair, wearing leisurely clothes. They are calm and tenacious
+, and idolize beauty.
+
+
+
+House 15 Occupants:
+FATHER
+Hrolkug Larbu
+: Adult male Orc. average and fat with Slate skin and Black hair, wearing formal clothes. A Guard
+, they are peaceful and hypocrite
+, and idolize self-improvement.
+MOTHER
+Batuash Larbu
+: Adult female Orc. short and scrawny with Slate skin and Black hair, wearing formal clothes. A Minstrel
+, they are loving and clumsy
+, and idolize enlightenment.
+CHILDREN
+Xnurl Larbu
+: Child male Orc. short and skinny with Slate skin and Black hair, wearing average clothes. They are mature and impetuous
+, and idolize self-control.
+Epkagut Larbu
+: Child male Orc. tall and burly with Slate skin and Black hair, wearing work clothes. They are cooperative and dolt
+, and idolize self-discovery.
+Mauhul Larbu
+: Child male Orc. short and average with Slate skin and Black hair, wearing average clothes. They are fun and slacker
+, and idolize live and let live.
+Xnurl Larbu
+: Child male Orc. average and skinny with Slate skin and Black hair, wearing work clothes. They are silly and irrational
+, and idolize charity.
+
+
+
+
+
+Total Population: 1129
